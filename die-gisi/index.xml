@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Die-Gisi on </title>
+    <link>//localhost:1313/die-gisi/</link>
+    <description>Recent content in Die-Gisi on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 21:39:54 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/die-gisi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die Gisi</title>
+      <link>//localhost:1313/die-gisi/gisi/</link>
+      <pubDate>Sat, 15 Jun 2024 21:39:54 +0200</pubDate>
+      <guid>//localhost:1313/die-gisi/gisi/</guid>
+      <description>test</description>
+    </item>
+  </channel>
+</rss>
