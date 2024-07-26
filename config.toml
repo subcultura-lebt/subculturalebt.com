@@ -21,8 +21,8 @@ theme = 'maverick'
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "Über die Gisi"
-    url = "/gisi"
+    name = "Die Subcultura"
+    url = "/subcultura"
     weight = "-110"
   [[menu.main]]
     identifier = "posts"

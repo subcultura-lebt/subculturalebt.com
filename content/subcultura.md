@@ -14,6 +14,10 @@ In der Subcultura finden regelmässig Konzerte, Parties und Bar-Abende statt. Di
 
 Der Eingang zur Subcultura ist etwas versteckt und nicht auf der Seite der General-Guisan-Strasse! Um die Subcultura zu besuchen, geht ihr in den Innenhof zwischen der Neustadtgasse 22 (aktuell eingerüstet, da wo der Bildhauer ist) und der Neustadtgasse 26 (des große Gebäude wo im Erdgeschoss der Tamar Headshop ist).
 
+## Die Gisi
+
+Die Gisi ist seit 1997 besetzt und bietet seitdem Wohnraum für Menschen und mit der Subcultura ein öffentilches Kulturangebot. Nicht nur die Subcultura, sondern auch die Gisi und andere Freiräume in Winterthur sind aktiv bedroht! Seit der Besetzung unterhalten die Bewohner\*innen und Benutzer\*innen das Haus komplett. Die Gisi ist komplett selbstverwaltet und soll dies auch bleiben.
+
 ## Kontakt
 
 Ihr erreicht uns am besten per Mail via ggs31 (ät) immerda (punkt) ch.
