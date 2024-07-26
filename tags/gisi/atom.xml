@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gisi on Subcultura lebt</title><link>https://maverick.canhtran.me/tags/gisi/</link><description>Recent content in Gisi on Subcultura lebt</description><generator>Hugo</generator><language>de-ch</language><lastBuildDate>Mon, 15 Jul 2024 13:43:53 -0600</lastBuildDate><atom:link href="https://maverick.canhtran.me/tags/gisi/atom.xml" rel="self" type="application/rss+xml"/><item><title>Ein Blogpost</title><link>https://maverick.canhtran.me/posts/subcultura-lebt/</link><pubDate>Mon, 15 Jul 2024 13:43:53 -0600</pubDate><guid>https://maverick.canhtran.me/posts/subcultura-lebt/</guid><description>Dies, das, Ananas.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gisi on Subcultura lebt</title>
+    <link>http://localhost:1313/tags/gisi/</link>
+    <description>Recent content in Gisi on Subcultura lebt</description>
+    <generator>Hugo</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Mon, 15 Jul 2024 13:43:53 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gisi/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ein Blogpost</title>
+      <link>http://localhost:1313/posts/subcultura-lebt/</link>
+      <pubDate>Mon, 15 Jul 2024 13:43:53 -0600</pubDate>
+      <guid>http://localhost:1313/posts/subcultura-lebt/</guid>
+      <description>Dies, das, Ananas.</description>
+    </item>
+  </channel>
+</rss>
