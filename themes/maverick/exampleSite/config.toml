@@ -1,6 +1,6 @@
-baseURL = https://www.subculturalebt.com/
-languageCode = 'de-DE'
-title = 'Subcultura lebt'
+baseURL = 'https://maverick.canhtran.me'
+languageCode = 'en-us'
+title = 'Maverick'
 paginate = 3
 theme = 'maverick'
 
@@ -9,11 +9,11 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "Gisi bleibt!"
-  author = 'Subcultura'
+  description = "A minimal hugo theme focus on content"
+  author = 'Calvin Tran'
 
   [params.comments]
-    enabled = false
+    enabled = true
     githubRepo = 'canhtran/maverick'
     theme = 'github-light'
 
@@ -21,13 +21,13 @@ theme = 'maverick'
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "Über die Gisi"
-    url = "/gisi"
+    name = "About"
+    url = "/about/"
     weight = "-110"
   [[menu.main]]
     identifier = "posts"
-    name = "Unsere Freund*innen"
-    url = "/freundinnen"
+    name = "Post"
+    url = "/posts/"
     weight = -200
 
 [markup]
