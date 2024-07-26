@@ -1,5 +1,5 @@
-baseURL = 'https://maverick.canhtran.me'
-languageCode = 'de-ch'
+baseURL = 'https://subculturalebt.com'
+languageCode = 'de-DE'
 title = 'Subcultura lebt'
 paginate = 3
 theme = 'maverick'
