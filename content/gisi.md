@@ -1,11 +1,22 @@
 ---
-title: "Was ist die Gisi?"
+title: "Was ist die Subcultura?"
 date: 2024-06-15T21:39:54+02:00
 draft: false
 ---
 
-Das Haus an der General-Guisan-Strasse 31 in Winterthur - liebevoll `die Gisi` oder `GGS31` genannt ist seit 1997 besetzt.
+## Grundsätzliche Informationen
 
-lirum larum.
+Die Subcultura befindet sich im Erdgeschoss des Hauses an der General-Guisan-Strasse 31 in Winterthur. Dieses ist seit 1997 besetzt und wir liebevoll Gisi oder GGS31 genannt.
 
-Subcultura lebt - Gisi bleibt!
+In der Subcultura finden regelmässig Konzerte, Parties und Bar-Abende statt. Die laufende Agenda gibt es auf [der Hompage der Subcultura](https://ggs31.arachnia.ch/). Dort findet ihr auch ein [Archiv](https://ggs31.arachnia.ch/index.php/konzi-archiv) mit allen Events, welche bis anhin in der Subcultura veranstaltet wurden.
+
+## Wie komme ich in die Subcultura
+
+Der Eingang zur Subcultura ist etwas versteckt und nicht auf der Seite der General-Guisan-Strasse! Um die Subcultura zu besuchen, geht ihr in den Innenhof zwischen der Neustadtgasse 22 (aktuell eingerüstet, da wo der Bildhauer ist) und der Neustadtgasse 26 (des große Gebäude wo im Erdgeschoss der Tamar Headshop ist).
+
+## Kontakt
+
+Ihr erreicht uns am besten per Mail via ggs31 (ät) immerda (punkt) ch.
+
+
+__Subcultura lebt - Gisi bleibt!__
