@@ -1,4 +1,4 @@
-baseURL = https://www.subculturalebt.com/
+baseURL = 'https://www.subculturalebt.com/'
 languageCode = 'de-DE'
 title = 'Subcultura lebt'
 paginate = 3
