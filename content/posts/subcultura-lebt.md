@@ -1,9 +1,9 @@
 ---
-title: "Ein Blogpost..."
-date: 2024-07-15T13:43:53-06:00
+title: "Infoflyer “Subcultura lebt”"
+date: 2024-08-03T13:43:53-06:00
 draft: true
 image: brand_image.jpg
 tags: ["gisi","subcultura"]
 ---
 
-Dies, das, Ananas.
+Mit dem Infoflyer `Subcultura lebt` 

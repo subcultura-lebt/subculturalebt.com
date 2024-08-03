@@ -18,17 +18,17 @@ theme = 'maverick'
     theme = 'github-light'
 
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "Die Subcultura"
-    url = "/subcultura"
-    weight = "-110"
-  [[menu.main]]
-    identifier = "posts"
-    name = "Unsere Freund*innen"
-    url = "/freundinnen"
-    weight = -200
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "Die Subcultura"
+#    url = "/subcultura"
+#    weight = "-110"
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "Unsere Freund*innen"
+#    url = "/freundinnen"
+#    weight = -200
 
 [markup]
   [markup.goldmark.renderer]
